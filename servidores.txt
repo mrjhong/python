@@ -1,0 +1,297 @@
+OCUMENTO CONTROLADO
+
+REVISIÓN
+APLICACIONES
+SINCRONIZACION DE HORAS
+211
+Servidores y Encoders 
+SERVIDORES - PRINCIPALES
+254
+Activo
+1 Whatsapp Instancia - TECNOLOGIA - T3cn0l0g14 SVS 204
+Acu
+Alertas Radio y television
+Alertas radio y television Clasifica
+Alertas Radio y Television Omisiones
+ApeSender
+Audiovisual coberturas
+Borra archivo
+Delivery newsletters fijos
+DeliveryV4
+PenguinXml
+PrNews-Envio de JPG
+Usuarios Regionales
+App Telegram
+Espacio en Discos Duros
+210
+Activo
+Acu
+Asocia Nota con Imagen Completa
+Borra archivos
+Cargador bajadas web x ID
+Cargador oficinas remotas
+Cargador baseGris corresponsales
+Cargador baseGris - GNSync
+Cargador base gris a produccion 
+Cargador GnSyncV2
+Catalogo RegExp
+Catalogo RegExp audiovisual
+CatalogoRegExpRetroactivos
+Consola dossier
+Consola dossier2
+Hora
+Indice catalogo actualizador
+Inserta notas en catalogo
+BK SQL - G:\COPERNICO y D:\COPERNICO
+Espacio en Discos Duros
+202
+Activo
+Acu
+Newbase ICR-Controller
+Newbase TCL-Sheduler
+Newbase ICR-Server
+Biblioteca de medios
+Borra archivos
+Cargador  newbase urgencia
+Cargador newbase urgencia - error
+Cargador newbase
+Cargador newbase con error
+BK SQL - C:\MsSQL\Backup\NEWBASE
+Espacio en Discos Duros
+203
+Activo
+Acu
+Import Server 01
+Import Server 02
+Import Server 03
+Espacio en Discos Duros
+7  Whatsapp Instancia - TECNOLOGIA - T3cn0l0g14 SVS 204
+204
+Activo
+Espacio en Discos Duros
+2  Whatsapp Instancia - TECNOLOGIA - T3cn0l0g14 SVS 204
+211
+Activo
+Acu
+User_Feed_Synchronization
+Clipping news2.globalnews.com.co/login ABCOLOMBIA1 demo2021b
+Espacio en Discos Duros
+213
+Activo
+Cobian Backuo - BACKUP_153_PUNTUAL
+Cobian Backuo - Bk Toma de datos tecnologia
+Cobian Backup - BK ProAsistemasBK
+Espacio en Discos Duros
+73
+Activo
+alertas_catalogo
+Boletines_automaticos
+Acu
+Espacio en Discos Duros
+freeFTPd - SFTP Running
+Cobian -  backup_scg
+Cobian -  backup_scg MEDIO_DIA
+Cobian - VINCULACION_CLIENTES
+Cobian - DATA-PALMIRA
+Cobian - ANALISIS Dia
+Cobian - ANALISIS Tarde
+SqlBackupFree - cplusDev
+SqlBackupFree - Cplus_freep
+SqlBackupFree - dev2
+SqlBackupFree - bk_cplusDev02
+4  Whatsapp Instancia - TECNOLOGIA - T3cn0l0g14 SVS 204
+117
+Activo
+Espacio en Discos Duros
+6 Whatsapp Instancia - TECNOLOGIA - T3cn0l0g14 SVS 204
+77
+Activo
+Espacio en Discos Duros
+Consola Kasperksy
+3 Whatsapp Instancia - WhatsApp - T3cn0l0g14 
+61
+Activo
+Cobian Backup
+Acu
+catalogo.competenciaplus.com - COMERCIAL2020 - gnc0m3r1
+Espacio en Discos Duros
+Cobian -  Administrativo 153
+Cobian -  BACKUP_LUXOR
+Cobian -  BACKUP_PUBLICIDAD
+Cobian -  Clone de instrutivos_clientes_6PM
+Cobian - Clone de OPERATIVO
+Cobian -  Comercial
+Cobian -  correo
+Cobian -  instructivo_cliente
+Cobian -  OPERATIVO
+Cobian -  VINCULACION MEDIO DIA
+Cobian -  VINCULACION TARDE
+5 Whatsapp Instancia - TECNOLOGIA  - T3cn0l0g14 
+ENCODERS
+BOGOTA
+131
+5 SEGUNDOS ADELANTE DEL 211 - TIEMPO
+Espacio en Discos Duros
+132
+Espacio en Discos Duros
+133
+5 SEGUNDOS ADELANTE DEL 211 - TIEMPO
+Espacio en Discos Duros
+134
+Espacio en Discos Duros
+135
+Espacio en Discos Duros
+136
+Espacio en Discos Duros
+137
+Espacio en Discos Duros
+138
+5 SEGUNDOS ADELANTE DEL 211 - TIEMPO
+Espacio en Discos Duros
+139
+Espacio en Discos Duros
+140 - BK HD
+Espacio en Discos Duros
+101 - RPA
+Espacio en Discos Duros
+107 - UR BACKUP
+Espacio en Discos Duros
+106 - HD
+Espacio en Discos Duros
+114 - HD
+Espacio en Discos Duros
+118 - HD
+Espacio en Discos Duros
+205 - HD
+Espacio en Discos Duros
+122
+Espacio en Discos Duros
+126 - Celulares - Corta sports noticias IP156 VNC
+Espacio en Discos Duros
+128 - Medios Rcn y Caracol
+Espacio en Discos Duros
+152
+Espacio en Discos Duros
+154
+Espacio en Discos Duros
+156
+Carga_videoteca Cortador2
+Espacio en Discos Duros
+158
+Espacio en Discos Duros
+159
+Espacio en Discos Duros
+160
+Espacio en Discos Duros
+164
+Espacio en Discos Duros
+165 HD
+Espacio en Discos Duros
+166
+Espacio en Discos Duros
+167
+Espacio en Discos Duros
+168
+Espacio en Discos Duros
+SERVIDOR - CALI
+Activo - AnyDesk 960976667
+Cortador par e impar
+SYNC Cortes
+Cobian - DB_Cali
+SqlBackupFree - multiencoder
+FTPSync
+Espacio en Discos Duros
+ENCODERS - CALI
+21
+Espacio en Discos Duros
+50
+Espacio en Discos Duros
+SERVIDOR - MEDELLIN
+Activo - AnyDesk 850544426
+Cortador par e impar
+SYNC cortes
+Cobian - DB_Medellin
+SqlBackupFree - multiencoder
+FTPSync
+Espacio en Discos Duros
+ENCODERS - MEDELLIN
+Espacio en Discos Duros
+13
+Espacio en Discos Duros
+14
+Espacio en Discos Duros
+SERVIDOR - BARRANQUILLA
+Activo - AnyDesk 267265523
+Cortador par e impar
+SYNC cortes
+Cobian - BACKUPSQL
+SqlBackupFree - multiencoder
+FTPSync
+Espacio en Discos Duros
+ENCODERS - BARRANQUILLA
+52
+Espacio en Discos Duros
+32
+Espacio en Discos Duros
+FUNCIONA
+BOGOTA
+74 archivos03-archivos04
+Activo PIN
+Entorno
+76 storage04
+Activo PIN
+Espacio en Discos Duros
+75 storage05
+Activo PIN
+Espacio en Discos Duros
+NAS 201
+Activo
+Espacio en Discos Duros
+79 storage06
+Activo PIN
+Espacio en Discos Duros
+80 storage07
+Activo PIN
+Espacio en Discos Duros
+85 storage08
+Activo PIN
+Espacio en Discos Duros
+153
+Activo
+Espacio en Discos Duros
+155
+Activo
+Espacio en Discos Duros
+124
+Activo
+Espacio en Discos Duros
+78
+Activo
+Cortador par e impar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
